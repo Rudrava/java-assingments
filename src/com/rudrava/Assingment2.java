@@ -1,5 +1,4 @@
 package com.rudrava;
-import java.util.Scanner;
 
 class ShapeUtil2d{
     //    area
